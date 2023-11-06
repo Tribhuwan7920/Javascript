@@ -1,0 +1,11 @@
+datatype means what kind  of data are assigned to the variable
+
+there are 7 type of data in javascript => NNSSBBU
+
+N => number
+N => null
+S => string
+S => symbol
+B => boolean
+B => bigint
+U => undefined

@@ -1,0 +1,15 @@
+definition => operator are used to operate some basic operation/function in our program 
+
+there are mainly five type of operator 
+1. arthmatical operator 
+2. assigment operator 
+3. logical operator
+4. comparison operator
+5. bitwise operator
+
+basic syntax of operator
+
+   5       +      5      =  10 
+operand operator operand = result
+
+some operator is work with value but some operator is only work with boolean value

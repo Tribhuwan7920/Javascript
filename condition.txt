@@ -1,0 +1,29 @@
+condition is very necesary in our program if we make any logical program 
+
+there are three ways to take condition in javaseript
+1. if statement
+2. switch statement
+3. ternary operator
+
+basic syntax of if statement
+
+if(condition){
+    statement 1
+}
+else{
+    statement 2
+}
+
+basic syntax of switch statement
+
+swtch (variable){
+    case 1:
+        statement 
+        break;
+    default:
+        statement
+}
+
+basic syntax of ternary operator
+
+(condition)?if true:if false;

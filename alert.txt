@@ -1,0 +1,13 @@
+interactive:  alert , prompt and confirm
+
+1: alert =>  used to invoke a mini window with a message
+2: prompt => used to take user input as string
+3: confirm =>  show a message and write for a user to press ok or cancel , return true     for ok and false for cancel
+
+syntax example:
+
+alert("you are warned")
+prompt("what is your name " , "default value" )
+confirm("do you want to cancel ")
+
+$$ note:=> the exact location a nd link is determined by the browser which is a limitation 

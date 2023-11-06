@@ -1,0 +1,20 @@
+!!!  console object methods  !!!
+
+the console object has several methods log being one of them some of them are as follows:
+
+1:  assert() => used to  assert a statement
+2:  clear() => clear the console
+3:  log() => out a message to the console
+4:  table() => display a tabular data
+5:  warn() => used for  warning
+6:  error() => used for errors
+7:  info() => used for soecial information
+
+comprehensive list can be seen by this code: 
+
+*****************************************************************************************************************
+
+data =  console;
+console.log(data)
+
+******************************************************************************************************************
